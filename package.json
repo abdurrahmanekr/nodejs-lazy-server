@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-lazy-server",
+  "version": "1.0.0",
+  "description": "NodeJS Lazy Server",
+  "main": "server.js",
+  "repository": "https://github.com/abdurrahmanekr/nodejs-lazy-server",
+  "author": "Avare Kodcu <abdurrahmaneker58@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
